@@ -20,7 +20,7 @@ Este proyecto implementa un **flujo ETL (Extract, Transform, Load)** utilizando 
      s3://coingecko-prefect/etl/crypto_markets/dt=YYYY/MM/DD/coingecko_top50_TIMESTAMP.parquet
      ```
 
-## Flujo ETL
+## Flujo ELT
 
 1. **Extract**  
    - Fuente: API pública de CoinGecko (`/coins/markets`).
